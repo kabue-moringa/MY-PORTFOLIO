@@ -12,14 +12,32 @@ h1{
     border-radius: 20PX;
 }
 img{
- width: 1150px;
-  height: 700px;
+ width: 120x;
+  height: 250px;
   text-align: right;
   margin: 100px;
   margin-top: 20px;
-  .{
-      margin-top: 10px;
-  }
+  border-radius: 100%;
+  margin-left: 10px;
+}
+.para{
+text-align:bottom;
+margin-inline-end: 520px;
+justify-content: first baseline;
+flex-direction: column;
+display: flex;
+padding-bottom: 300px;
+margin-bottom: 1500px;
+float: right;
+}
+.cont{
+    text-align: center;
+    float: right;
+    margin-inline-end: 520px;
+}
+.pic{
+    border-radius: 50%;
+
 }
 h2{
     color: brown;
